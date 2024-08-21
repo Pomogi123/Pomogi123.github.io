@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15c098e7.css",
+    "main.js": "/static/js/main.903147e9.js",
+    "static/media/Slide3_bgc.png": "/static/media/Slide3_bgc.d8a43ef50db68662f8e2.png",
+    "static/media/Slide1_phone.png": "/static/media/Slide1_phone.34114c854dba838bf0d5.png",
+    "static/media/Slide4_bgc.png": "/static/media/Slide4_bgc.5cb70804e1c90fda4e9c.png",
+    "static/media/Slide2_phone.png": "/static/media/Slide2_phone.2a435cfb630272907ade.png",
+    "static/media/Slide3_phone.png": "/static/media/Slide3_phone.7b708dcc551939d7c29b.png",
+    "static/media/Slide5_phone.png": "/static/media/Slide5_phone.a9b63288397cd45ee0e4.png",
+    "static/media/Slide5_bgc.png": "/static/media/Slide5_bgc.3320ee2b0eb6dadcc06c.png",
+    "static/media/Slide2_bgc.png": "/static/media/Slide2_bgc.b8c93684a81de2f253ca.png",
+    "static/media/Slide4_phone.png": "/static/media/Slide4_phone.48c6c060f057a57b3aa9.png",
+    "static/media/Footer.png": "/static/media/Footer.476ec1a311f4fc2fc7c5.png",
+    "static/media/Slide5_profile.png": "/static/media/Slide5_profile.5721e7ec6e37854b3690.png",
+    "static/media/Slide3_profile.png": "/static/media/Slide3_profile.16429ffe5b3592a5ff24.png",
+    "static/media/Slide1_BG.png": "/static/media/Slide1_BG.72ce8bf1a26ef2e80ec6.png",
+    "static/media/Slide2_profile.png": "/static/media/Slide2_profile.a6e99c9e8e68707f8387.png",
+    "static/media/Slide4_profile.png": "/static/media/Slide4_profile.ba34713b187654108f05.png",
+    "static/media/Slide1.1_Profile.png": "/static/media/Slide1.1_Profile.3028cbad51fd206ddb6b.png",
+    "static/media/Slide1.1_BG.png": "/static/media/Slide1.1_BG.e19aab7fb2527b41df75.png",
+    "index.html": "/index.html",
+    "main.15c098e7.css.map": "/static/css/main.15c098e7.css.map",
+    "main.903147e9.js.map": "/static/js/main.903147e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15c098e7.css",
+    "static/js/main.903147e9.js"
+  ]
+}
